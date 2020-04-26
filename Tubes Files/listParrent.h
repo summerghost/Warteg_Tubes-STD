@@ -37,5 +37,5 @@ void deleteSpesificParent(List_Parent &L, string X);
 address_child findElmParent(List_Parent &L, string X);
 void printInfoParent(List_Parent L);
 
-void inputDataTahanan()Warteg(List_Parent L,infotypeParent &in);
+void inputDataWarteg(List_Parent L,infotypeParent &in);
 
