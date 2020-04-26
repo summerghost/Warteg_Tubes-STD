@@ -24,9 +24,9 @@ struct List_Parent {
 };
 void createListChild(List_Parent &L);
 address_child CreateElmChild(infotypeParent in);
-void insertFirstChild(List_Child &L, address_child P);
-void insertAfterChild(List_Child &L, address_child Prec, address_child P);
-void insertLastChild(List_Child &L, address_child P);
+void insertFirstPaarent(List_Parent &L, address_parent P);
+void insertAfterParent(List_Parent &L, address_parent Prec, address_parent P);
+void insertLastParent(List_Parent &L, address_parent P);
 
 
 void insertSortedParent(List_parent &L, infotypeParent X);
