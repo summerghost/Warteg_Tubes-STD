@@ -1,3 +1,3 @@
-# flymetothemoon
+# TUBES STD
 
-Saya Faza, ini adalah repo untuk tugas besar STD, yang pengerjaannya akan dibantu oleh Sulthon
+Ini adalah repo yang akan dikerjakan oleh saya, Faza dan juga rekan saya Sulthon
