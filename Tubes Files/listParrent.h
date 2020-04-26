@@ -22,3 +22,8 @@ struct List_Parent {
     address_parent first;
     address_parentlast;
 };
+void createListChild(List_Parent &L);
+address_child CreateElmChild(infotypeParent in);
+void insertFirstChild(List_Child &L, address_child P);
+void insertAfterChild(List_Child &L, address_child Prec, address_child P);
+void insertLastChild(List_Child &L, address_child P);
